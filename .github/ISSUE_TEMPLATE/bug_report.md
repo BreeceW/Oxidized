@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Make a bug report that includes the necessary details to make a fix
-title: ''
+title: 'Bug: '
 labels: bug
 assignees: ''
 
@@ -18,6 +18,3 @@ Steps to reproduce the behavior:
 Windows version(s) (such as Creators update, 20H2, etc.)
 PC/Mobile/Xbox/Other (select one or more)
 x64/x86/ARM/ARM64 (select one or more)
-
-**Additional context**
-Add any other context about the problem here.

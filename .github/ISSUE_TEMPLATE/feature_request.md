@@ -1,7 +1,7 @@
 ---
 name: Feature request
-about: Suggest an idea or change for this app
-title: ''
+about: Suggest a new feature or change to an existing one
+title: 'Feature request: '
 labels: ''
 assignees: ''
 
